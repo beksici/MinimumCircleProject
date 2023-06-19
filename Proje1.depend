@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1605101607 source:c:\users\evolutýon\desktop\yeni klasör\proje\proje1\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<graphics.h>
+	<math.h>
+	<stddef.h>
+

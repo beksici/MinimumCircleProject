@@ -1,0 +1,6 @@
+input.txt dosyasýna sayýlarý girme formatý þöyledir.
+x y
+x y
+x y(press enter)
+
+gibi  ve son sayýyý girdiðimizde lütfen entere basalým ve dosyayý o þekilde kaydedelim.
