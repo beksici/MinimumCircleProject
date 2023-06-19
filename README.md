@@ -169,7 +169,7 @@ O(N^2)’dir.
 
 
 
-![C:\Users\evolutıon\Desktop\re\Ekran Alıntısı2.PNG](Aspose.Words.ae4d3e0a-6a5f-4fad-969b-41e4ba566ea7.003.png)
+![C:\Users\evolutıon\Desktop\re\Ekran Alıntısı2.PNG](Images/Ekran Alıntısı2.png)
 
 
 
