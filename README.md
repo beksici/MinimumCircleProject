@@ -4,6 +4,8 @@ Kocaeli Üniversitesi
 |<p>Bilgisayar Mühendisliği Bölümü </p><p>Programlama Laboratuvarı I</p><p>Minimum Çevreleyen Çember</p><p>Bünyamin Ekşici</p><p>170201014@kocaeli.edu.tr</p>|
 | :-: |
 
+## Proje raporu için Proje Raporu.docx
+
 ![C:\Users\evolutıon\Desktop\re\iki-nokta-arasindaki-uzaklik.jpg](Images/iki-nokta-arasindaki-uzaklik.jpg)
 
 `	`***2 boyutlu bir düzlemde verilen n tane noktanın koordinat düzleminde gösterilmesi ve bu noktaları çevreleyen minimum  çemberi  bulmak.***
