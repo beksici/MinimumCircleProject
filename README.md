@@ -4,7 +4,7 @@ Kocaeli Üniversitesi
 |<p>Bilgisayar Mühendisliği Bölümü </p><p>Programlama Laboratuvarı I</p><p>Minimum Çevreleyen Çember</p><p>Bünyamin Ekşici</p><p>170201014@kocaeli.edu.tr</p>|
 | :-: |
 
-![C:\Users\evolutıon\Desktop\re\iki-nokta-arasindaki-uzaklik.jpg](Aspose.Words.ae4d3e0a-6a5f-4fad-969b-41e4ba566ea7.001.jpeg)
+![C:\Users\evolutıon\Desktop\re\iki-nokta-arasindaki-uzaklik.jpg](Images/iki-nokta-arasindaki-uzaklik.jpg)
 
 `	`***2 boyutlu bir düzlemde verilen n tane noktanın koordinat düzleminde gösterilmesi ve bu noktaları çevreleyen minimum  çemberi  bulmak.***
 
@@ -39,7 +39,7 @@ Bu projede kullanılan yöntem 4 aşamada anlatılacaktır.
 
 2\.Aşama: 1.aşamada düşündüğümüz çemberin merkezinden çemberin dışındaki en uzak nokta hesabı yapılır yani yine 1.aşamada olduğu gibi iki nokta arası uzaklık formülü kullanarak yapılır. Bu merkeze en uzak nokta P3 olsun. Şimdi ise bu 3 noktadan (P1(a,b) , P2(c,d) , P3(e,f)) bir çember çizilir ve bu çemberin merkezinin formülü ve yarıçapı aşağıdaki gibidir. 
 
-![C:\Users\evolutıon\Desktop\re\Ekran Alıntısı1.PNG](Aspose.Words.ae4d3e0a-6a5f-4fad-969b-41e4ba566ea7.002.png)   Çizilen bu çember tüm noktaları içeren bir çember ise minimum çevreleyen çember bu çemberdir. Aksi halde 3.aşamaya geçilir.
+![C:\Users\evolutıon\Desktop\re\Ekran Alıntısı1.PNG](Images/Ekran%20Alıntısı1.PNG)   Çizilen bu çember tüm noktaları içeren bir çember ise minimum çevreleyen çember bu çemberdir. Aksi halde 3.aşamaya geçilir.
 
 3\.Aşama: Bu aşamada 2.aşamadaki 3 nokta üzerinden geçen çemberin dışında kalan noktaların aşama 2 deki gibi merkeze en uzak nokta seçilir. Bu nokta P4 olur. Şu durumda minimum çember için P3,P4 ün üzerinden geçtiği ve 3.nokta olarakta P1 veya P2’nin üzerinden geçen çemberlerden hangisinin minimum olduğuna karar verilir. Yani elimizde 2 çember var P1 P3 P4 veya P2 P3 P4 peki hangi çember minimum 4.aşamada karar vereceğiz.
 
@@ -169,7 +169,7 @@ O(N^2)’dir.
 
 
 
-![C:\Users\evolutıon\Desktop\re\Ekran Alıntısı2.PNG](Images/Ekran Alıntısı2.png)
+![C:\Users\evolutıon\Desktop\re\Ekran Alıntısı2.PNG](Images/Ekran%20Alıntısı2.PNG)
 
 
 
@@ -195,9 +195,9 @@ O(N^2)’dir.
 
 
 
-![C:\Users\evolutıon\Desktop\re\Ekran Alıntısı3.PNG](Aspose.Words.ae4d3e0a-6a5f-4fad-969b-41e4ba566ea7.004.png)
+![C:\Users\evolutıon\Desktop\re\Ekran Alıntısı3.PNG](Images/Ekran%20Alıntısı3.PNG)
 
-![C:\Users\evolutıon\Desktop\re\Ekran Alıntısı4.PNG](Aspose.Words.ae4d3e0a-6a5f-4fad-969b-41e4ba566ea7.005.png)
+![C:\Users\evolutıon\Desktop\re\Ekran Alıntısı4.PNG](Images/Ekran%20Alıntısı4.PNG)
 
 
 
